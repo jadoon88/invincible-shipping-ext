@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: IB Shipping Extension
+ * Plugin Name: Example Shipping Options Extension
  * Plugin URI: https://github.com/jadoon88
  * Description: Adds 'Carrier ID' field in 'Free' and 'Flat Rate' shipping methods.
  * Version: 1.0
